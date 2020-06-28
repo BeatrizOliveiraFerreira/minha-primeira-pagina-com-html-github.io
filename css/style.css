@@ -1,0 +1,29 @@
+body {
+    background: #f0f0f5;
+    margin-left: 100px;
+    margin-right: 200px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    }
+
+    header {
+        margin-top: 40px;
+    }
+
+    h1 {
+        color: #c26565;
+        font-family: fantasy;
+    }
+
+    h2 {
+        font-family: fantasy;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    .img_padrao {
+        margin-bottom: 20px;
+        width:300px;
+    }
